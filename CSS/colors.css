@@ -1,0 +1,52 @@
+* {
+	box-sizing: border-box;
+	margin:0;
+	padding:0;
+	/* font-family: 'Open Sans Condensed', sans-serif; */
+	/* font-family: 'Anton', sans-serif; */
+	font-family: 'Varela Round', sans-serif;
+}
+
+body {
+	height: 100%;
+	color: darkslategray;
+}
+
+
+.dash-top {
+	background: rgba(76, 79, 83, 0.2);
+	color: rgba(28, 29, 31, 1);
+}
+
+.full-size-chart,
+.half-size-charts,
+.social-media-info,
+.member-info,
+.message-and-settings {
+	background-color: white;
+	color: darkslategray;
+}
+
+
+.members-1,
+.members-2 {
+	background: rgba(169, 148, 202, 0.2);
+}
+.social-2,
+.social-3,
+.message,
+.settings {
+	background: white;
+
+}
+
+
+header {
+	background: #7477BF;
+}
+nav {
+	background: #4D4C71;
+}
+main {
+	background: white;
+}
